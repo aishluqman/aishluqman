@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with employers with my bootcamp knowledge and technique learned in machine coding.
 - 📫 How to reach me: Please contact me on linkedin or my email address.
 - ⚡ Fun fact:I like dancing and reading books.
--->
+  
