@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Please contact me on linkedin or my email address.
 - ⚡ Fun fact:I like dancing and reading books.
   
+<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
