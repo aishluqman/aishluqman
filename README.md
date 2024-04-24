@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--
+### Hi there 👋Please feel free to contact me. I am passionate about my work and actively looking for new challenges in the world of data science and machine learning.
 **aishluqman/aishluqman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
