@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with employers with my bootcamp knowledge and technique learned in machine coding.
 - 📫 How to reach me: Please contact me on linkedin or my email address.
 - ⚡ Fun fact:I like dancing and reading books.
-  
-<source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+![image](https://github.com/aishluqman/aishluqman/assets/165335490/fe7a6698-87af-4ec8-bda4-efea30c41bc5)
